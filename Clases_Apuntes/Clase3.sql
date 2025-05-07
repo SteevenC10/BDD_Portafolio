@@ -70,7 +70,7 @@ Mejora el tiempo de respuesta al acercar los datos a los usuarios.
 
  
 
-2.2 Replicación 
+-- 2.2 Replicación 
 
 Se crean copias de ciertos fragmentos en varios nodos. 
 
