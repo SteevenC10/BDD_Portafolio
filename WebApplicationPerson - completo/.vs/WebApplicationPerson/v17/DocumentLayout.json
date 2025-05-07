@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\APIS BDD\\WebApplicationPerson - completo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\migrations\\20250328101205_nuevastablas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\migrations\\20250328101205_nuevastablas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\webapplicationperson.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\webapplicationperson.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\webapplicationperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\webapplicationperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\webapplicationperson.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\webapplicationperson.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\migrations\\20250326143328_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\migrations\\20250326143328_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|c:\\apis bdd\\webapplicationperson - completo\\webapplicationperson\\migrations\\20250326143328_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E261EA-7180-4564-B01A-C5D2B54C7B58}|WebApplicationPerson\\WebApplicationPerson.csproj|solutionrelative:webapplicationperson\\migrations\\20250326143328_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:10:02.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:06:49.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\appsettings.json",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\appsettings.json",
+              "RelativeToolTip": "WebApplicationPerson\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T14:12:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Program.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Program.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:48:46.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Models\\Pedidos.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Models\\Pedidos.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Models\\Pedidos.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Models\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:49:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Models\\Person.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Models\\Person.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:02:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Models\\Productos.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Models\\Productos.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:39:59.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250328101205_NuevasTablas.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\20250328101205_NuevasTablas.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Migrations\\20250328101205_NuevasTablas.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\20250328101205_NuevasTablas.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Migrations\\20250328101205_NuevasTablas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:12:05.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\WeatherForecast.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplicationPerson\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:10:30.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApplicationPerson.http",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WebApplicationPerson.http",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\WebApplicationPerson.http",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WebApplicationPerson.http",
+              "RelativeToolTip": "WebApplicationPerson\\WebApplicationPerson.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-26T15:10:46.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:09:28.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:10:09.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "personController.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Controllers\\personController.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Controllers\\personController.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Controllers\\personController.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Controllers\\personController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:06:01.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplicationPerson",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WebApplicationPerson.csproj",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\WebApplicationPerson.csproj",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WebApplicationPerson.csproj",
+              "RelativeToolTip": "WebApplicationPerson\\WebApplicationPerson.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T15:12:44.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplicationPerson.csproj",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WebApplicationPerson.csproj",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\WebApplicationPerson.csproj",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\WebApplicationPerson.csproj",
+              "RelativeToolTip": "WebApplicationPerson\\WebApplicationPerson.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T13:58:23.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250326143328_Initial.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\20250326143328_Initial.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Migrations\\20250326143328_Initial.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\20250326143328_Initial.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Migrations\\20250326143328_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:33:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250326143328_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\20250326143328_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplicationPerson\\Migrations\\20250326143328_Initial.Designer.cs",
+              "ToolTip": "C:\\APIS BDD\\WebApplicationPerson - completo\\WebApplicationPerson\\Migrations\\20250326143328_Initial.Designer.cs",
+              "RelativeToolTip": "WebApplicationPerson\\Migrations\\20250326143328_Initial.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:36:39.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
